@@ -2,14 +2,14 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #fff;
+  background-color: rgb(255, 246, 221);
   border: 1px solid #ccc;
   box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.2);
   border-radius: 8px;
   padding: 20px;
   width: 250px;
   height: 350px;
-  margin: 10px auto;
+  margin: 20px auto;
 }
 
 .description {
